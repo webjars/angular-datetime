@@ -1,7 +1,7 @@
 angular-datetime Webjar
 ===============
 
-A WebJar for the through project.
+A WebJar for the angular-datetime project.
 
 More info: http://webjars.org
 
